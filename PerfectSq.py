@@ -40,7 +40,7 @@ while i<=K:
 
  if int(res2)== int(value1):
   print ("true")
-# if you wanna add part  
+# if you wanna add else part  
 #else: 
   #print("false")
  #increase in variable i 
