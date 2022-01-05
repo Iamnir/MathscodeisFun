@@ -2,7 +2,7 @@ import math
 #Give a range to check the property 
 minNum = int(input("Please Enter the Minimum integer Value : "))
 maxNum = int(input("Please Enter the Maximum integer Value : "))
-#initialize an array 
+#initialize an list
 listN= []
 
 #find all the perfect squares in the range 
