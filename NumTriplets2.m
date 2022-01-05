@@ -1,6 +1,6 @@
-%New Problem Posted by Michael Penn: Find all possible triplets (a,b,n) such that 2^a+2^b = n! 
+%New Problem posted by Michael Penn: Find all possible triplets (a,b,n)∈N^3 such that 2^a+2^b = n! 
 %Extention of this problem find all possible combinations (a, b, i, n) such that i^a+i^b = n! holds 
-%code below.
+%code below
 close all; 
 k = input("Enter the value =");
 for a = 1:k 
@@ -20,3 +20,4 @@ for a = 1:k
         end 
     end 
 end
+%%contact if you have any suggestions or would like to connect. Twitter @cyb_nir
