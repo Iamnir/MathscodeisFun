@@ -2,7 +2,7 @@ import math
 #Give a range to check the property 
 minNum = int(input("Please Enter the Minimum integer Value : "))
 maxNum = int(input("Please Enter the Maximum integer Value : "))
-#initialize an list
+#initialize a list
 listN= []
 
 #find all the perfect squares in the range 
@@ -12,12 +12,13 @@ for i in range(minNum, maxNum):
     if int(rooot + 0.5) ** 2 == i:
         listN.append(i)
 
-#print all the perfect squares saved in listN within the range 
+#print all the perfect squares save in the 'listN'
 print(listN)
 
-#length of the list
+#length of the listN
 K = len(listN)
 i =0
+
 #compute the property and verify 
 while i<=K:
  value1= str(listN[i])
