@@ -1,3 +1,6 @@
+#Define the problem: We are looking for the numbers which can be separated into two parts and addition of sum of their squares would be the same number. 
+#e.g. 81 = 8^2+1^2 or 2025 = (20)^2+(25)^2 or 3025 = (30)^2+(25)^2
+
 import math
 
 #Give a range to check the property 
